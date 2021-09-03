@@ -1,0 +1,15 @@
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\bin\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.exe
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\bin\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.deps.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\bin\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.runtimeconfig.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\bin\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.runtimeconfig.dev.json
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\bin\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.dll
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\bin\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.pdb
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.csprojAssemblyReference.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.csproj.GenerateResource.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.AssemblyInfoInputs.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.AssemblyInfo.cs
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.csproj.CoreCompileInputs.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.dll
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.pdb
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.genruntimeconfig.cache
+C:\Users\Diego Jav\Desktop\UDB\CICLO 2\POO\02 L\Taller 1\DiegoAyala_Ej1_02L\DiegoAyala_Ej1_02L\obj\Debug\netcoreapp3.1\DiegoAyala_Ej1_02L.pantalla_1.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DiegoAyala_Ej1_02L/1.0.0": {
+        "runtime": {
+          "DiegoAyala_Ej1_02L.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiegoAyala_Ej1_02L/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
