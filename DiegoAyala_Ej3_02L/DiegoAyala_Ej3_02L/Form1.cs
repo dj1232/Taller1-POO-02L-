@@ -114,6 +114,7 @@ namespace DiegoAyala_Ej3_02L
             {
                 corregir();
             }
+            //codigo Hecho por Diego Ayala
         }//fin click calcular
 
         private void label2_Click(object sender, EventArgs e)
